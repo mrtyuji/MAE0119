@@ -1,0 +1,15 @@
+Alunos: Vitor Yuji Murata e Allan Rocha
+
+Para utilizar o programa, entre: http://mybinder.org/
+
+Após entrar, digite no "Build a repository": mrtyuji/MAE0119
+
+Quando a bola do "status" estiver verde, clique em "launch" ao lado.
+
+Ao abrir a página do "JUPYTER" clique no arquivo "analise.ipynb".
+
+Após isto, clique onde está o código e depois, clique no "play". Quando
+aparecer a caixa para inserir o número de lançamento, coloque o valor
+desejado.
+
+Para o novo teste, clique na caixa do código e clique "play" novamente.
